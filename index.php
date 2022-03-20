@@ -1,5 +1,5 @@
 <?php
-    include 'components/Navigation.php';
+    include('components/Navigation.php');
 ?>
 
 <!-- Banner Top -->
@@ -326,5 +326,5 @@
 <!--X- Contact Us -X-->
 
 <?php 
-    include 'components/footer.php'
+    include('components/footer.php');
 ?>

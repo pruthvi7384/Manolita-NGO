@@ -1,5 +1,5 @@
 <?php
-    include 'components/Navigation.php';
+    include('components/Navigation.php');
 ?>
 <!-- Donates Form -->
     <div class="container padding donation">
@@ -26,7 +26,7 @@
                     <input type="number" id="donation_amount" placeholder="Enter Donation Amount" required>
                 </div>
                 <div class="form-btn">
-                    <button value="Pay Now" type="button"  class="btn read-more-btn" onClick="pay_now()">Donate Now</button>
+                    <button type="button"  class="btn read-more-btn" >Donate Now</button>
                 </div>
             </form>
         </div>
@@ -34,5 +34,5 @@
 <!--X- Donates Form -X-->
 
 <?php 
-    include 'components/footer.php'
+    include('components/footer.php');
 ?>

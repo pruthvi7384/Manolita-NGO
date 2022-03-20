@@ -1,5 +1,5 @@
 <?php
-    include 'top.php';
+    include('top.php');
    
     // ========Navbar Active Coding Here=========
         $nav_id = '';
