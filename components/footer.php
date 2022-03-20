@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="row-developer">
-                <p>Designed By ~ <a href="#">Pruthviraj Rajput</a></p>
+                <p>Designed By ~ <a href="https://pruthvirajrajput.great-site.net">Pruthviraj Rajput</a></p>
                 </ul>
             </div>
         </div>
