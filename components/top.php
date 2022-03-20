@@ -10,6 +10,10 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital,wght@0,400;0,500;0,700;1,500&display=swap" rel="stylesheet">
     <!--X- Google Font -X-->
+    
+    <!-- ---------------Animation-------------- -->
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- -----------X---Animation---X---------- -->
 
     <!-- Font Awsome Icon CDN -->
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>

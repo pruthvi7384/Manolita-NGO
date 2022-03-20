@@ -62,5 +62,15 @@
     <!-- JavaScript file -->
         <script src="js/script.js"></script>
     <!--X- JavaScript file -X-->
+    
+    <!-- --------AOC  Script------- -->
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init({
+                offset: 150,
+                duration: 1000,
+            });
+        </script>
+    <!-- ----X--AOC  Script--X---- -->
 </body>
 </html>
